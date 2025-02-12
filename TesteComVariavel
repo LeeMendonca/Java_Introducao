@@ -1,0 +1,7 @@
+public class TesteComVariavel {
+    public static void main(String[] args) {
+        String nome = "Letícia";
+        System.out.println("Boa noite, " + nome + "!");
+    }
+    
+}
