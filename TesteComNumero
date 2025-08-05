@@ -1,6 +1,0 @@
-public class TesteComNumero {
-    public static void main(String[] args) {
-        System.out.println("Data: " + 11 + " / " + 2 + " / " + 2025);
-    }
-    
-}
