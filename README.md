@@ -3,6 +3,8 @@
 Repositório com **exercícios curtos e comentados** desenvolvidos durante a disciplina de **Desenvolvimento Orientado a Objetos** na graduação.  
 Os códigos foram elaborados para fixar conceitos básicos e intermediários da linguagem Java, com foco em lógica, orientação a objetos, classes, métodos e manipulação de dados.
 
+> Ferramenta utilizada: **Apache NetBeans**
+
 ---
 
 ## 🎯 Objetivo do Repositório
